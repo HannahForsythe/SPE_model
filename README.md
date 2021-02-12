@@ -1,7 +1,8 @@
-# SPE_model
-model of Subject Pronoun Expression in child Spanish
+# What is in this probject
 
-Optimal model assumes children in mono-dialectal and contact situations accurately learn and deploy priors and likelihoods to determine the posterior probability of overt or null SPE given the pronoun's reference P(pronoun|reference).
+This is a set of models that capture children's Subject Pronoun Expression (SPE) in Spanish. 
+
+- The *Optimal model* assumes children in mono-dialectal and contact situations accurately learn and deploy priors and likelihoods to determine the posterior probability of overt or null SPE given the pronoun's reference P(pronoun|reference). The R notebook for this model is: [optimal]("optimal-draft2.Rmd")
 
 
 # How to view the notebooks
