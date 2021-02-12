@@ -1,9 +1,10 @@
-# What is in this probject
+# What is in this project
 
 This is a set of models that capture children's Subject Pronoun Expression (SPE) in Spanish. 
 
-- The *Optimal model* assumes children in mono-dialectal and contact situations accurately learn and deploy priors and likelihoods to determine the posterior probability of overt or null SPE given the pronoun's reference P(pronoun|reference). The R notebook for this model is: [optimal]("optimal-draft2.Rmd")
+- The *Optimal model* assumes children in mono-dialectal and contact situations accurately learn and deploy priors and likelihoods to determine the posterior probability of overt or null SPE given the pronoun's reference P(pronoun|reference). The R notebook for this model is `optimal-draft2.Rmd`
 
+- The *Noisy priors* model assumes that children in both situations accurately learn the priors and likelihoods but probabilistically fail to include the prior when calculating the posterior P(pronoun|reference). Th R notebook for this model is `noisy_prior-draft1.Rmd`
 
 # How to view the notebooks
 
