@@ -6,7 +6,7 @@ output:
   word_document: default
 ---
 
-```{r include=FALSE}
+```{r preliminaries, message=FALSE, warning=FALSE}
 #IMPORTANT: DO NOT USE plyr library. It will interfere with dplyr group by and summarise operations in code chunks 'priors' and 'likelihoods' below (even if plyr is called first).
 library(tidyverse)
 ```
