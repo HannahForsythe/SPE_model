@@ -1,6 +1,7 @@
 ---
 title: "Noisy prior model of SPE by learners of monolingual and contact Spanish"
 output:
+  word_document: default
   html_document:
     df_print: paged
 ---
