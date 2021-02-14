@@ -2,8 +2,8 @@
 title: "Noisy prior model of SPE by learners of monolingual and contact Spanish"
 output:
   word_document: default
-  html_document: noisy_prior
-    df_print: paged
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r preliminaries, message=FALSE, warning=FALSE}
